@@ -1,11 +1,8 @@
 # E-Commerce-Data-Analysis
-# E-Commerce Exploratory Data Analysis  
 
-![project_image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*akAgBR0uBVkQgIB4BjWB0Q.png)
+This project aims to conduct exploratory data analysis on e-commerce data using Python. We aim to understand the dataset, discover interesting patterns, and extract valuable insights from the data. You can access the [dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) we will use for this application by clicking on it. 
 
-This project is aimed at conducting exploratory data analysis on e-commerce data using Python. Our goal is to understand the dataset, discover interesting patterns, and extract valuable insights from the data. You can access the [dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) we will use for this application by clicking on it. 
-
-This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+This transnational data set contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 Each column in this data can be used to ask numerous questions like the following and obtain their answers.
 
@@ -21,7 +18,7 @@ Each column in this data can be used to ask numerous questions like the followin
 
 • Who are the customers with the lowest purchase amounts?
 
-• From which countries does customer X make purchases?
+• From which countries do customer X make purchases?
 
 ## Project Description
 This project will be carried out using the Python programming language. Our main objectives are:
